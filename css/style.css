@@ -35,7 +35,7 @@ h1 {
 h2 {
     text-align: center;
     margin-top: 0px;
-    margin-bottom: 1em;       
+    margin-bottom: 0em;       
 }
 
 h3 {
@@ -135,7 +135,10 @@ i {
     font-size: 20px;
 }
 
-
+p.p-subtitulo {
+    text-align: center;
+    margin-top: 0px;
+}
 
 @media (max-width: 1000px) {
 
