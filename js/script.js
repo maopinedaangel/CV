@@ -3,15 +3,15 @@ window.addEventListener("load", function (e) {
     let divSkills = document.getElementById("div-skills");
     let skills = [
         { name: "Java", score: 0.8 },
-        { name: "Spring Boot", score: 0.7 },
+        { name: "Spring Boot", score: 0.8 },
         { name: "Python", score: 0.7 },
         { name: "FastAPI", score: 0.7 },
         { name: "SQL", score: 0.8 },
         { name: "HTML", score: 0.8 },
         { name: "css", score: 0.8 },
         { name: "JavaScript", score: 0.9 },
-        { name: "React", score: 0.7 },        
-        { name: "Vue.js", score: 0.7 },
+        { name: "React", score: 0.8 },        
+        { name: "Vue.js", score: 0.8 },
         { name: "Git, Github", score: 0.7 }        
     ]
 
